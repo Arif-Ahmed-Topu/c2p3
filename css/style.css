@@ -1,0 +1,61 @@
+body{
+	margin:0;
+}
+img{
+	max-width: 100%;
+	border-radius: 30px;
+	margin-bottom: 100px;
+	box-shadow: 5px 10px 15px black;
+}
+.container{
+	       width: 1200px;
+           margin: 0 auto;
+          }
+
+.bgcolor{
+	 background-color: #00ffff80;
+}
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: #333;
+	padding: 70px;
+	margin-bottom: 0;
+}
+.class1{
+	color: orange;
+}
+.class2{
+	color: seagreen;
+}
+.class3{
+	color: red;
+}
+.class4{
+	color: purple;
+}
+p{
+	margin: 0;
+	font-size: 20px;
+	padding: 30px;
+	line-height: 1.6;
+	text-transform: capitalize;
+	text-align: justify;
+}
+.post{
+		height: 200px;
+		width: 33.33%;
+		float: left;
+}
+.bgcolor1{
+	background-color: green ;
+}
+.bgcolor2{
+	background-color: yellow ;
+}
+.bgcolor3{
+	background-color: red;
+}
+.img{
+	padding: 10px;
+}
